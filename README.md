@@ -1,4 +1,4 @@
-# transformer攻防工具（Transformer hacker）
+# transformer攻防工具（Transformer Hacker）
 
 仓库地址：https://github.com/llm-sec/transformer-hacker
 
