@@ -52,7 +52,7 @@ python main.py --directory ./rce-checkpoint --model bert-base-uncased --command 
 
 对于漏洞原理的解读请移步此文章：
 
-[]()
+[huggingface/transformers RCE漏洞分析（CVE-2024-3568）](https://github.com/llm-sec/transformer-hacker/blob/main/docs/CVE-2024-3568/README.md)
 
 # 四、大模型安全技术交流群
 
