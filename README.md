@@ -4,7 +4,9 @@
 
 # 一、这是什么？
 
-transformer相关漏洞武器化，方便利用漏洞。
+`transformer`相关漏洞武器化，方便利用漏洞，目前支持功能：
+
+- 生成`rce`的`checkpoint`，通过检查点进行命令执行
 
 # 二、下载 & 安装 
 
@@ -18,7 +20,7 @@ TODO
 
 - Python 
 
-克隆仓库到本地
+克隆仓库到本地：
 
 ```bash
 git clone git@github.com:llm-sec/huggingface-hacker.git 
