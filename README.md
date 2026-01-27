@@ -56,6 +56,15 @@ python main.py --directory ./rce-checkpoint --model bert-base-uncased --command 
 
 [huggingface/transformers RCE漏洞分析（CVE-2024-3568）](https://github.com/llm-sec/transformer-hacker/blob/main/docs/CVE-2024-3568/README.md)
 
+
+
+# 四、TODO 
+
+- 提供Docker镜像
+- 提供编译后的可执行文件
+- 从源码编译完善各种依赖版本之类的
+- 补充视频解说
+
 # 四、大模型安全技术交流群
 
 扫码加入大模型安全交流群：

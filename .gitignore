@@ -1,3 +1,34 @@
 .idea
 venv
 rce-checkpoint
+# Build and distribution
+dist/
+build/
+*.log
+*.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+.ENV
+*.so
+.Pytest_cache/
+.coverage
+htmlcov/
+.pytest_cache/
+.hypothesis/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
